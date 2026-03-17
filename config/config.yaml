@@ -1,0 +1,6 @@
+artifacts_root: artifacts
+data_ingest:
+  root_dir: artifacts/data_ingest
+  source_URL: https://raw.githubusercontent.com/mlflow/mlflow-example/refs/heads/master/wine-quality.csv
+  local_data_file: artifacts/data_ingest/data.csv
+  unzip_dir: artifacts/data_ingest
