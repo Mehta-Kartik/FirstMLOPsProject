@@ -11,10 +11,8 @@ from src.First_End_to_End_Project.config.configuration import ModelEvaluationCon
 from src.First_End_to_End_Project.constants import *
 from src.First_End_to_End_Project.utils.common import read_yaml,create_directories,save_json
 
-os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/Mehta-Kartik/FirstMLOPsProject.mlflow"
-os.environ["MLFLOW_TRACKING_USERNAME"]="Mehta-Kartik"
-os.environ["MLFLOW_TRACKING_PASSWORD"]="2a74092db8949c3d1feffbb9841705c2513185bf"
-
+from dotenv import load_dotenv
+load_dotenv()
 
 class ModelEvaluation:
     def __init__(self,config:ModelEvaluationConfig):
