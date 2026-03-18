@@ -3,7 +3,7 @@ from src.First_End_to_End_Project.pipeline.data_ingestion_pipeline import DataIn
 from src.First_End_to_End_Project.pipeline.data_validation_pipeline import DataValidationTrainingPipeline
 from src.First_End_to_End_Project.pipeline.data_transformation_pipeline import DataTransformationPipeline
 from src.First_End_to_End_Project.pipeline.model_trainer_pipeline import ModelTrainingPipeline
-
+from src.First_End_to_End_Project.pipeline.model_evaluator_pipeline import ModelEvaluationPipeline
 
 STAGE_NAME="Data Ingestion Stage"
 try:
@@ -45,6 +45,18 @@ try:
     logger.info(f">>> Stage {STAGE_NAME} Started<<<")
     obj=ModelTrainingPipeline()
     obj.initiate_model_training()
+    logger.info(f">>> Stage {STAGE_NAME} Ended<<<")
+except Exception as e:
+    logger.exception(e)
+    raise e
+
+
+
+STAGE_NAME="Model Evaluation Stage"
+try:
+    logger.info(f">>> Stage {STAGE_NAME} Started<<<")
+    obj=ModelEvaluationPipeline()
+    obj.initiate_model_evaluations()
     logger.info(f">>> Stage {STAGE_NAME} Ended<<<")
 except Exception as e:
     logger.exception(e)
