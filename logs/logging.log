@@ -1,2 +1,72 @@
 [2026-03-17 17:37:25,109:INFO:main:Welcome to our custom logging First_End_to_End_Project]
 [2026-03-17 19:16:32,193:INFO:common:yaml file: FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:30:17,342:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:30:17,345:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-17 19:30:17,348:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-17 19:30:17,355:INFO:common:created directory at: artifacts]
+[2026-03-17 19:30:17,357:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-17 19:30:53,367:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:30:53,369:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-17 19:30:53,372:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-17 19:30:53,373:INFO:common:created directory at: artifacts]
+[2026-03-17 19:30:53,376:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-17 19:31:43,665:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:31:43,669:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-17 19:31:43,671:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-17 19:31:43,672:INFO:common:created directory at: artifacts]
+[2026-03-17 19:31:43,675:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-17 19:31:44,071:INFO:3727203544:artifacts/data_ingest/data.zip downloaded! with following header 
+ Connection: close
+Content-Length: 264426
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: text/plain; charset=utf-8
+ETag: "b59f798118e63a6fe2399f503b5411c00a46fb511fc74357511ef218d79f7186"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 774E:37E0F9:110D9B:299C6C:69B95E97
+Accept-Ranges: bytes
+Date: Tue, 17 Mar 2026 14:01:48 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom-vanm7210022-BOM
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1773756108.342164,VS0,VE1
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ac7331e9558de9c4a273842967994e25f34ff865
+Expires: Tue, 17 Mar 2026 14:06:48 GMT
+Source-Age: 50
+
+]
+[2026-03-17 19:36:43,627:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:36:43,630:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-17 19:36:43,632:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-17 19:36:43,634:INFO:common:created directory at: artifacts]
+[2026-03-17 19:36:43,637:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-17 19:37:49,581:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:37:49,584:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-17 19:37:49,587:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-17 19:37:49,588:INFO:common:created directory at: artifacts]
+[2026-03-17 19:37:49,590:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-17 19:38:00,791:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:38:00,794:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-17 19:38:00,797:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-17 19:38:00,799:INFO:common:created directory at: artifacts]
+[2026-03-17 19:38:00,801:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-17 19:38:14,600:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-17 19:38:14,603:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-17 19:38:14,606:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-17 19:38:14,608:INFO:common:created directory at: artifacts]
+[2026-03-17 19:38:14,610:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-17 19:38:15,264:INFO:802279914:✅ artifacts/data_ingest/data.csv downloaded!]
+[2026-03-18 12:29:54,400:INFO:main:>>> Stage Data Ingestion Stage Started<<<]
+[2026-03-18 12:29:54,417:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\config\config.yaml loaded successfully]
+[2026-03-18 12:29:54,422:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\params.yaml loaded successfully]
+[2026-03-18 12:29:54,423:INFO:common:yaml file: D:\ProjectAarya\MLOPs\Code\Ch18 FirstMLOPs\FirstMLOPsProject\schema.yaml loaded successfully]
+[2026-03-18 12:29:54,424:INFO:common:created directory at: artifacts]
+[2026-03-18 12:29:54,425:INFO:common:created directory at: artifacts/data_ingest]
+[2026-03-18 12:29:54,440:INFO:main:>>> Stage Data Ingestion Stage Ended<<<]
